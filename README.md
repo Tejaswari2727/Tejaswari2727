@@ -7,7 +7,7 @@
 🌱 **About Me:**
 - 🔍 Interested in Data Analysis, Software Testing, and Full Stack Development
 - 💡 Skilled in **Python**, **SQL**, **PHP**, **MySQL**, and **Machine Learning**
-- 🛠 Currently learning **Java**, **Selenium**, and **Agile Methodologies**
+- 🛠 Currently learning **Java**, **Selenium**, **SAP**
 - 📂 Actively building projects and strengthening my GitHub portfolio
 
 ---
@@ -15,7 +15,7 @@
 📫 **How to reach me:**
 - ✉️ Email: [battitejaswari@gmail.com](mailto:battitejaswari@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswari-batti)
-- 🌐 Portfolio: *(Add your link here if you have one)*
+- 🌐 Portfolio: *( https://tejaswari-portfolio.netlify.app/ )*
 
 ---
 
