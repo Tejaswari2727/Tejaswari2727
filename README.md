@@ -15,7 +15,7 @@
 📫 **How to reach me:**
 - ✉️ Email: [battitejaswari@gmail.com](mailto:battitejaswari@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswari-batti)
-- 🌐 Portfolio: *( https://tejaswari-portfolio.netlify.app/ )*
+- 🌐 Portfolio: ( https://tejaswari-portfolio.netlify.app/) 
 
 ---
 
